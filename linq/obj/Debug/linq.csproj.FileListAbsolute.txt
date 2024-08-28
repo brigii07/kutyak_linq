@@ -1,0 +1,20 @@
+H:\2022-23\szoftver\lázár a\02.22_kutyak(linq)\linq\linq\bin\Debug\linq.exe.config
+H:\2022-23\szoftver\lázár a\02.22_kutyak(linq)\linq\linq\bin\Debug\linq.exe
+H:\2022-23\szoftver\lázár a\02.22_kutyak(linq)\linq\linq\bin\Debug\linq.pdb
+H:\2022-23\szoftver\lázár a\02.22_kutyak(linq)\linq\linq\obj\Debug\linq.csproj.AssemblyReference.cache
+H:\2022-23\szoftver\lázár a\02.22_kutyak(linq)\linq\linq\obj\Debug\linq.Form1.resources
+H:\2022-23\szoftver\lázár a\02.22_kutyak(linq)\linq\linq\obj\Debug\linq.Properties.Resources.resources
+H:\2022-23\szoftver\lázár a\02.22_kutyak(linq)\linq\linq\obj\Debug\linq.csproj.GenerateResource.cache
+H:\2022-23\szoftver\lázár a\02.22_kutyak(linq)\linq\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+H:\2022-23\szoftver\lázár a\02.22_kutyak(linq)\linq\linq\obj\Debug\linq.exe
+H:\2022-23\szoftver\lázár a\02.22_kutyak(linq)\linq\linq\obj\Debug\linq.pdb
+C:\Users\farka\Desktop\minden\suli\órai munkák Lázár\02.22_kutyak(linq)\linq\linq\bin\Debug\linq.exe.config
+C:\Users\farka\Desktop\minden\suli\órai munkák Lázár\02.22_kutyak(linq)\linq\linq\bin\Debug\linq.exe
+C:\Users\farka\Desktop\minden\suli\órai munkák Lázár\02.22_kutyak(linq)\linq\linq\bin\Debug\linq.pdb
+C:\Users\farka\Desktop\minden\suli\órai munkák Lázár\02.22_kutyak(linq)\linq\linq\obj\Debug\linq.csproj.AssemblyReference.cache
+C:\Users\farka\Desktop\minden\suli\órai munkák Lázár\02.22_kutyak(linq)\linq\linq\obj\Debug\linq.Form1.resources
+C:\Users\farka\Desktop\minden\suli\órai munkák Lázár\02.22_kutyak(linq)\linq\linq\obj\Debug\linq.Properties.Resources.resources
+C:\Users\farka\Desktop\minden\suli\órai munkák Lázár\02.22_kutyak(linq)\linq\linq\obj\Debug\linq.csproj.GenerateResource.cache
+C:\Users\farka\Desktop\minden\suli\órai munkák Lázár\02.22_kutyak(linq)\linq\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+C:\Users\farka\Desktop\minden\suli\órai munkák Lázár\02.22_kutyak(linq)\linq\linq\obj\Debug\linq.exe
+C:\Users\farka\Desktop\minden\suli\órai munkák Lázár\02.22_kutyak(linq)\linq\linq\obj\Debug\linq.pdb
